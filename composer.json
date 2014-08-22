@@ -1,0 +1,5 @@
+{
+    "require": {
+        "richsage/rms-push-notifications-bundle": "dev-master"
+    }
+}
