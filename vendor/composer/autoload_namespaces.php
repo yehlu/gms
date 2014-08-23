@@ -9,6 +9,7 @@ return array(
     'Twig_' => array($vendorDir . '/twig/twig/lib'),
     'Symfony\\Component\\Icu\\' => array($vendorDir . '/symfony/icu'),
     'Symfony\\' => array($vendorDir . '/symfony/symfony/src'),
+    'RMS\\PushNotificationsBundle' => array($vendorDir . '/richsage/rms-push-notifications-bundle'),
     'Psr\\Log\\' => array($vendorDir . '/psr/log'),
     'Doctrine\\Common\\Lexer\\' => array($vendorDir . '/doctrine/lexer/lib'),
     'Doctrine\\Common\\Inflector\\' => array($vendorDir . '/doctrine/inflector/lib'),
@@ -16,4 +17,5 @@ return array(
     'Doctrine\\Common\\Cache\\' => array($vendorDir . '/doctrine/cache/lib'),
     'Doctrine\\Common\\Annotations\\' => array($vendorDir . '/doctrine/annotations/lib'),
     'Doctrine\\Common\\' => array($vendorDir . '/doctrine/common/lib'),
+    'Buzz' => array($vendorDir . '/kriswallsmith/buzz/lib'),
 );
